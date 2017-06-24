@@ -1,0 +1,17 @@
+body {
+
+    background-color: blue;
+}
+
+a.color {
+    color: yellow;
+    font-size: 12px;
+}
+
+div {
+    color: white;
+
+}
+
+p { color: gold;
+                           background-color: aqua}
